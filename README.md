@@ -1,5 +1,5 @@
 The project focuses on the personal development of skills in AI and Machine Learning.
-All code will be on Master branch.
+
 
 Part 1 of the project: 
 
